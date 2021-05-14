@@ -1,6 +1,6 @@
 {
-  "districtId": "<DISTRICT_ID>",
-  "authToken": "<TELEGRAM_AUTH_TOKEN>",
-  "chatID": "<TELEGRAM_CHAT_ID>",
-  "userAge": "<AGE>"
+  "districtId": "295",
+  "authToken": "609e5718f6e0d13b65620281",
+  "chatID": "814871045",
+  "userAge": "20"
 }
